@@ -1,1 +1,1 @@
-# BE-Lab-6
+# BE-Lab-6 MySQL
